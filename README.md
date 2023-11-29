@@ -2,10 +2,10 @@
 Welcome to PassKeep, your one-stop solution to password peace of mind!
 
 # Why PassKeep?
-The Password Predicament 🤔
+## The Password Predicament 🤔
 Remembering passwords is like herding cats—difficult and probably a futile endeavor. We've all been there: juggling countless logins, forgetting which password belongs where, and the unending struggle of crafting strong yet memorable passwords.
 
-# Enter PassKeep 🦸‍♂️
+## Enter PassKeep 🦸‍♂️
 Fear not! PassKeep swoops in as your digital superhero, tackling these password woes head-on. This ingenious project is your ultimate fortress for storing and evaluating passwords.
 
 # What's in the Box? 📦
